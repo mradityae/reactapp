@@ -6,6 +6,7 @@
     "@fortawesome/fontawesome-free": "5.15.2",
     "axios": "^1.1.2",
     "bootstrap": "4.6.0",
+    "create-app-react": "^1.0.6",
     "fs": "^0.0.1-security",
     "gulp": "^4.0.2",
     "gulp-append-prepend": "1.0.9",
